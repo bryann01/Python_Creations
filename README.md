@@ -1,2 +1,2 @@
 # Python_Creations
-Alguns projetos em python.
+Alguns projetos pequenos em python.
